@@ -1,0 +1,197 @@
+{ 
+	"meta": { 
+		"theme": "Kendall" 
+	},
+	"basics": {
+		"name": "Cristian E. Navarrete",
+		"label": "VOIP / Network Administrator/Engineer",
+		"image": "",
+		"email": "Cristian.nav86@gmail.com",
+		"phone": "(305) 741-1382",
+		"summary": "I'm a Chilean expat, I've lived in the US for over 20 years. I'm grateful to have had the opportunity to call this country my home. I am fluently bi-lingual. I have a deep-seated passion for enterprise technology. I'm an Experienced Implementation Specialist with a demonstrated history of working in the internet industry. Skilled in Windows environments, Cisco IOS, Technical Support, Linux System Administration, and Databases. Strong information technology professional with a Associate's degree focused in Computer Systems Networking and Telecommunications from Miami Dade College. I've worked in tier 1 support, to tier 3 engineering. I've had the pleasure to experience different settings, from field offices, small business, and datacenter environments. I've also had the privilege to assist local government offices to ensure their technology is functioning as intended. In my free time I enjoy tinkering with hardware and software within my homelab. I have an enclosed rack with cisco routers and switches, and other enterprise equipment, such as brocade and aruba, alongside networking I also run my server equipment which I use for various services. I automate processes through my scripting on both windows, and linux, but quite frankly, I use linux for 99% of any service. I enjoy destressing by means of playing guitar and other activities such as paintballing, speedball, to be exact. I also enjoy outside activities as well, like kayaking throughout Florida and venturing into locations like as JW Corbett, Ocala Forest and Everglades wild life management in my Wrangler, 6 cylinder and of course, manual. I hope to one day drive through MOAB. ",
+		"location": {
+			"countryCode": "US",
+			"city": "Miami",
+			"region": "Florida"
+		},
+		"profiles": [{
+			"network": "linkedin",
+			"url": "https://www.linkedin.com/in/cristian-navarrete-75774443/"
+		}]
+	},
+	"skills": [{
+			"name": "Environments",
+			"keywords": [
+				"Windows",
+				"GNU/Linux",
+				"macOS",
+				"Docker"
+			]
+		},
+		{
+			"name": "Front-End Libraries / Frameworks",
+			"keywords": ["React", "Gatsby", "Vue"]
+		},
+		{
+			"name": "Back-End",
+			"keywords": [
+				"NGINX",
+				"Apache",
+				"NodeJS",
+				"PHP",
+				"Python",
+				"GraphQL",
+				"Databases"
+			]
+		},
+		{
+			"name": "Back-End Libraries / Frameworks",
+			"keywords": ["Express", "Laravel", "Shopify"]
+		},
+		{
+			"name": "Local Environment",
+			"keywords": ["macOS", "GNU/Linux", "Windows", "Docker"]
+		},
+		{
+			"name": "Servers",
+			"keywords": ["Debian", "RHEL", "Fedora", "Ubuntu", "CentOS", "Docker", "Windows Server"]
+		},
+		{
+			"name": "CLI / Tools",
+			"keywords": [
+				"Wireshark",
+				"iperf",
+				"AirCrack-NG",
+				"snort",
+				"senzing",
+				"zsh",
+				"nmap",
+				"npm",
+				"docker",
+				"docker-compose"
+			]
+		},
+		{
+			"name": "Networking",
+			"keywords": [
+				"Security",
+				"WAN/LAN",
+				"Hardware",
+				"Management",
+				"Administration",
+				"Fortigate",
+				"SonicWall",
+				"WatchGuard",
+				"Switching/Routing",
+				"Pf/Opnsense"
+			]
+		},
+		{
+			"name": "Telecom",
+			"keywords": [
+				"Avaya",
+				"Cisco CM",
+				"Asterisk",
+				"Ring Central",
+				"Mitel",
+				"CallFlow/IVR",
+				"ICR/Inbound Call Routing",
+				"Analog",
+				"SIP/URI",
+				"PRI",
+				"Telco Block 66",
+				"Skyswitch",
+				"Unity"
+			]
+		},
+		{
+			"name": "Key Knowledge Areas",
+			"keywords": [
+				"Automation",
+				"Compatibility",
+				"Optimization",
+				"Best Practices",
+				"Security",
+				"Hardware Requirements"
+			]
+		}
+	],
+	"work": [
+		{
+			"breakBefore": true,
+			"company": "Bluestar Telephone · Full-time",
+			"position": "Software Engineer (Remote)",
+			"website": "www.bluestartelephone.com",
+			"website2": "www.voiptel4u.com",
+			"startDate": "March 2016 - present",
+			"summary": "\"Ensuring VOIP function efficiently. Oversee and maintain telecommunication infrastructure and related operations including telephony, network applications, security, video conferencing and management systems. Responsible for designing, installing and maintaining digital communication networks within an organization. Monitoring, establishing wireless networks, developing networks and ensuring confidentiality and reliability for communications.\"",
+			"highlights": 
+			[
+				"Work remotely as part of a 4 man team, we implement large scale PBX environments that cater to the needs of our customers, we've worked with small businesses, large business, banks and governing buildings such as LE Offices, dispatches, and city halls. I collaborate with local IT teams to ensure communication is working as specified.", "Skills: HTML · Linux System Administration · Red Hat Linux · CentOS · Server Administration · Windows Server · Cisco IOS · Routers · SSH · VoIP · Hardware Support · Technical Support · Troubleshooting"
+			]
+		},
+		{
+			"company": "DC Remote Miami",
+			"position": "Enterprise Technologies Consultant",
+			"startDate": "Nov 2012 - present",
+            "summary": "\"I work as Datacenter Technician / Technologies consultant. Where I Design/Implement/Maintain infrastructure that is colocated within the South Florida Area. I will Rack/Install/Troubleshoot and offer 24/7 Remote hands support at any of these locations: CoreSite Equinox Terremark - formerly TerreNAP, Miami Data Vault (MDV) Digital Realty.\"",
+			"highlights": 
+			[
+				"I work hand in hand with IT teams of various companies to ensure maintenance and scalability of their environments", "Skills: HTML · Linux System Administration · Red Hat Linux · CentOS · Server Administration · Windows Server · Cisco IOS · Routers · SSH · Hardware Support · Technical Support · Troubleshooting."
+			]
+		},
+		{
+			"company": "Azulle",
+			"position": "Web Developer / Multimedia Producer",
+			"website": "https://azulletech.com",
+			"startDate": "June 2015",
+			"endDate": "March 2016",
+			"summary": "\"Azulle is a leading manufacturer of mini PCs and mini PC sticks, dedicated to developing and introducing practical innovation for homes and businesses. The company has a proven history of Amazon Best Sellers.\"",
+			"highlights": 
+			[
+				"Inspect and maintain IT services within the building as well as public.",
+				"Provided day to day technical support for users that use our SSF devices, along side creating how-to's for any issues that may be found while using the equipment. I assisted in the web development and maintenance of our website and forums."
+			]
+		},
+		{
+			"company": "Webhosting.net",
+			"position": "Datacenter Technician ",
+			"website": "www.webhosting.net",
+			"startDate": "Jan 2009",
+			"endDate": "Nov 2012",
+			"summary": "\"At webhosting I ensured that equipment was working as intended, constant maintenance for our server farms in the datacenter and our customers who might have also colocated their equipment. I administrated windows servers, along side routine software maintenance for GNU/Linux servers. I racked and installed equipment, from simple equipment at colocation sites, to heavy enterprise backbound routers and other edge devices in our the TerreMark location, formerly TerreNAP.\"",
+			"highlights": [
+				"Technician/installer/windows/Linux/VoIP systems/domain support/collocation support."
+			]
+		}
+	],
+	"education": [{
+			"institution": "Team Tree House",
+			"area": "Full Stack Development",
+			"studyType": "Programming",
+			"startDate": "2023",
+			"endDate": "Current"
+		},
+		{
+			"institution": "Miami Dade College",
+			"area": "Associates Computer Science",
+			"studyType": "Networking and Telecommunications",
+			"startDate": "2013",
+			"endDate": "2014"
+		},
+		{
+			"institution": "Miami Dade College",
+			"area": "Associates Computer Science",
+			"studyType": "Networking and Telecommunications - Unfortunately my time here was cut short due to cancer.",
+			"startDate": "2006",
+			"endDate": "2007"
+		},
+		{
+			"institution": "Miami Lakes Educational Center",
+			"area": "Computer Science",
+			"studyType": "Computer Science, Programming – C++, Databasing – SQL, Networking Fundamentals – Cisco",
+			"startDate": "2001",
+			"endDate": "2005"
+		}
+	]
+}
